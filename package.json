@@ -4,7 +4,7 @@
   "keywords": [],
   "description": "OpenGraph dot KhulnaSoft OpenSource is a general purpose social card generator",
   "author": "Md Sulaiman <infosulaimanbd@gmail.com>",
-  "private": true,
+  "private": false,
   "license": "MIT",
   "homepage": "https://github.com/khulnasoft-opensource/opengraph.khulnasoft.com#readme",
   "bugs": {
