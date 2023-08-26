@@ -2,23 +2,25 @@
 
 > The path to your next Open Source contribution
 
-[![Commits](https://img.shields.io/github/commit-activity/w/khulnasoft-opensource/opengraph.okhulnasoft.com?style=flat)](https://github.com/khulnasoft-opensource/opengraph.okhulnasoft.com/pulse)
-[![Issues](https://img.shields.io/github/issues/khulnasoft-opensource/opengraph.okhulnasoft.com.svg?style=flat)](https://github.com/khulnasoft-opensource/opengraph.okhulnasoft.com/issues)
-[![Twitter](https://img.shields.io/twitter/follow/khulnasoft?label=Follow&style=social)](https://twitter.com/khulnasoft)
+[![Code Size](https://img.shields.io/github/languages/code-size/khulnasoft-opensource/opengraph.khulnasoft.com?style=flat)](https://github.com/khulnasoft-opensource/opengraph.khulnasoft.com/pulse)
+[![Commits](https://img.shields.io/github/commit-activity/w/khulnasoft-opensource/opengraph.khulnasoft.com?style=flat)](https://github.com/khulnasoft-opensource/opengraph.khulnasoft.com/pulse)
+[![Issues](https://img.shields.io/github/issues/khulnasoft-opensource/opengraph.khulnasoft.com.svg?style=flat)](https://github.com/khulnasoft-opensource/opengraph.khulnasoft.com/issues)
+[![Releases](https://img.shields.io/github/v/release/khulnasoft-opensource/opengraph.khulnasoft.com.svg?style=flat)]labelColor=6A7EC2)](https://discord.gg/U2peSNf23P)
+[![Twitter](https://img.shields.io/twitter/follow/saucedopen?label=Follow&style=social)](https://twitter.com/saucedopen)
 
 </div>
 
 ## 🚀 Live release environments
 
-### Production ([main](https://github.com/khulnasoft-opensource/opengraph.okhulnasoft.com/tree/main))
+### Production ([main](https://github.com/khulnasoft-opensource/opengraph.khulnasoft.com/tree/main))
 
 - [opengraph@digital-ocean.app](https://cloud.digitalocean.com/apps/41eb42f8-3ca9-4598-b9c7-4378868a5702)
-- [opengraph.opensauced](https://opengraph.okhulnasoft.com)
+- [opengraph.opensauced](https://opengraph.khulnasoft.com)
 
-### Beta ([beta](https://github.com/khulnasoft-opensource/opengraph.okhulnasoft.com/tree/beta))
+### Beta ([beta](https://github.com/khulnasoft-opensource/opengraph.khulnasoft.com/tree/beta))
 
 - [opengraph-beta@digital-ocean.app](https://cloud.digitalocean.com/apps/7fd2cd42-4df7-4204-af8b-0e7ec252c324/overview)
-- [beta.opengraph.opensauced](https://beta.opengraph.okhulnasoft.com)
+- [beta.opengraph.opensauced](https://beta.opengraph.khulnasoft.com)
 
 ## 📖 Prerequisites
 
@@ -97,7 +99,7 @@ DO_SPACES_CDN_DISABLED=true
 If using a custom domain, you can set the following variable to the domain name:
 
 ```dotenv
-DO_SPACES_SUBDOMAIN=beta.opengraph-cdn.okhulnasoft.com
+DO_SPACES_SUBDOMAIN=beta.opengraph-cdn.khulnasoft.com
 ```
 
 Other API defaults you can change are not required in local development, but can sometimes appear configured differently for production:
@@ -105,7 +107,7 @@ Other API defaults you can change are not required in local development, but can
 ```dotenv
 API_HOST=0.0.0.0
 API_PORT=3005
-API_DOMAIN=opengraph.okhulnasoft.com
+API_DOMAIN=opengraph.khulnasoft.com
 MEMORY_HEAP=200
 MEMORY_RSS=3000
 DISK_PERCENTAGE=0.7
@@ -156,7 +158,7 @@ npm run build
 
 ## 🤝 Contributing
 
-We encourage you to contribute to KhulnaSoft OpenSource! Please check out the [Contributing guide](https://opengraph.okhulnasoft.com/contributing/introduction-to-contributing/) for guidelines about how to proceed.
+We encourage you to contribute to KhulnaSoft OpenSource! Please check out the [Contributing guide](https://opengraph.khulnasoft.com/contributing/introduction-to-contributing/) for guidelines about how to proceed.
 
 <img align="right" src="https://i.ibb.co/CJfW18H/ship.gif" width="200"/>
 
