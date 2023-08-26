@@ -1,0 +1,15 @@
+name: Compliance
+
+on:
+  pull_request_target:
+    types:
+      - opened
+      - edited
+      - synchronize
+
+permissions:
+  pull-requests: write
+
+jobs:
+  compliance:
+    uses: khulnasoft-opensource/khulnasoft-opensource/.github/workflows/compliance.yml@main
