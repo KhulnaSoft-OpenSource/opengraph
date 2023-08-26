@@ -2,8 +2,6 @@
 
 > The path to your next Open Source contribution
 
-[![Powered by Digital Ocean](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=c65a90d0956d&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
-
 [![Code Size](https://img.shields.io/github/languages/code-size/khulnasoft-opensource/opengraph.okhulnasoft.com?style=flat)](https://github.com/khulnasoft-opensource/opengraph.okhulnasoft.com/pulse)
 [![Commits](https://img.shields.io/github/commit-activity/w/khulnasoft-opensource/opengraph.okhulnasoft.com?style=flat)](https://github.com/khulnasoft-opensource/opengraph.okhulnasoft.com/pulse)
 [![Issues](https://img.shields.io/github/issues/khulnasoft-opensource/opengraph.okhulnasoft.com.svg?style=flat)](https://github.com/khulnasoft-opensource/opengraph.okhulnasoft.com/issues)
