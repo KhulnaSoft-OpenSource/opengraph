@@ -2,7 +2,6 @@
 
 > The path to your next Open Source contribution
 
-[![Code Size](https://img.shields.io/github/languages/code-size/khulnasoft-opensource/opengraph.okhulnasoft.com?style=flat)](https://github.com/khulnasoft-opensource/opengraph.okhulnasoft.com/pulse)
 [![Commits](https://img.shields.io/github/commit-activity/w/khulnasoft-opensource/opengraph.okhulnasoft.com?style=flat)](https://github.com/khulnasoft-opensource/opengraph.okhulnasoft.com/pulse)
 [![Issues](https://img.shields.io/github/issues/khulnasoft-opensource/opengraph.okhulnasoft.com.svg?style=flat)](https://github.com/khulnasoft-opensource/opengraph.okhulnasoft.com/issues)
 [![Releases](https://img.shields.io/github/v/release/khulnasoft-opensource/opengraph.okhulnasoft.com.svg?style=flat)]labelColor=6A7EC2)](https://discord.gg/U2peSNf23P)
