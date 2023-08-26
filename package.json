@@ -1,6 +1,6 @@
 {
   "name": "@khulnasoft-opensource/opengraph.khulnasoft.com",
-  "version": "2.4.1-beta.1",
+  "version": "2.4.1",
   "keywords": [],
   "description": "OpenGraph dot KhulnaSoft OpenSource is a general purpose social card generator",
   "author": "Md Sulaiman <infosulaimanbd@gmail.com>",
