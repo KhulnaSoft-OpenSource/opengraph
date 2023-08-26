@@ -26,7 +26,7 @@ async function bootstrap () {
   const markdownDescription = `
 ## Swagger-UI API Documentation
 
-This REST API can be used to create, read, update or delete data from the Open Sauced community platform.
+This REST API can be used to create, read, update or delete data from the KhulnaSoft OpenSource community platform.
 The Swagger-UI provides useful information to get started and an overview of all available resources.
 Each API route is clickable and has their own detailed description on how to use it.
 The base URL for the API is [${apiDomain}](https://${apiDomain}).
@@ -88,8 +88,8 @@ code | condition
     .setDescription(markdownDescription)
 
     // .setVersion(version)
-    .setContact("Open Sauced", "https://opensauced.pizza", "hello@opensauced.pizza")
-    .setTermsOfService("https://github.com/open-sauced/code-of-conduct")
+    .setContact("KhulnaSoft OpenSource", "https://khulnasoft.com", "hello@khulnasoft.com")
+    .setTermsOfService("https://github.com/khulnasoft-opensource/code-of-conduct")
 
     // .setLicense(`The ${license} License`, `https://opensource.org/licenses/${license}`)
     .addBearerAuth();
