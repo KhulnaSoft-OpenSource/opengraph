@@ -5,8 +5,7 @@
 [![Code Size](https://img.shields.io/github/languages/code-size/khulnasoft-opensource/opengraph.khulnasoft.com?style=flat)](https://github.com/khulnasoft-opensource/opengraph.khulnasoft.com/pulse)
 [![Commits](https://img.shields.io/github/commit-activity/w/khulnasoft-opensource/opengraph.khulnasoft.com?style=flat)](https://github.com/khulnasoft-opensource/opengraph.khulnasoft.com/pulse)
 [![Issues](https://img.shields.io/github/issues/khulnasoft-opensource/opengraph.khulnasoft.com.svg?style=flat)](https://github.com/khulnasoft-opensource/opengraph.khulnasoft.com/issues)
-[![Releases](https://img.shields.io/github/v/release/khulnasoft-opensource/opengraph.khulnasoft.com.svg?style=flat)]labelColor=6A7EC2)
-[![Twitter](https://img.shields.io/twitter/follow/saucedopen?label=Follow&style=social)](https://twitter.com/saucedopen)
+[![Twitter](https://img.shields.io/twitter/follow/khulnasoft?label=Follow&style=social)](https://twitter.com/khulnasoft)
 
 </div>
 
@@ -155,17 +154,6 @@ A production deployment is a complete build of the project, including the build 
 ```shell
 npm run build
 ```
-
-## 🤝 Contributing
-
-We encourage you to contribute to KhulnaSoft OpenSource! Please check out the [Contributing guide](https://opengraph.khulnasoft.com/contributing/introduction-to-contributing/) for guidelines about how to proceed.
-
-<img align="right" src="https://i.ibb.co/CJfW18H/ship.gif" width="200"/>
-
-## 🍕 Community
-
-Got Questions? Join the conversation in our [Discord](https://discord.gg/U2peSNf23P).  
-Find KhulnaSoft OpenSource videos and release overviews on our [YouTube Channel](https://www.youtube.com/channel/UCklWxKrTti61ZCROE1e5-MQ).
 
 ## 🎦 Repository Visualization
 
