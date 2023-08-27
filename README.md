@@ -5,7 +5,7 @@
 [![Code Size](https://img.shields.io/github/languages/code-size/khulnasoft-opensource/opengraph.khulnasoft.com?style=flat)](https://github.com/khulnasoft-opensource/opengraph.khulnasoft.com/pulse)
 [![Commits](https://img.shields.io/github/commit-activity/w/khulnasoft-opensource/opengraph.khulnasoft.com?style=flat)](https://github.com/khulnasoft-opensource/opengraph.khulnasoft.com/pulse)
 [![Issues](https://img.shields.io/github/issues/khulnasoft-opensource/opengraph.khulnasoft.com.svg?style=flat)](https://github.com/khulnasoft-opensource/opengraph.khulnasoft.com/issues)
-[![Releases](https://img.shields.io/github/v/release/khulnasoft-opensource/opengraph.khulnasoft.com.svg?style=flat)]labelColor=6A7EC2)](https://discord.gg/U2peSNf23P)
+[![Releases](https://img.shields.io/github/v/release/khulnasoft-opensource/opengraph.khulnasoft.com.svg?style=flat)]labelColor=6A7EC2)]
 [![Twitter](https://img.shields.io/twitter/follow/saucedopen?label=Follow&style=social)](https://twitter.com/saucedopen)
 
 </div>
